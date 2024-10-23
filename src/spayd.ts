@@ -1,5 +1,5 @@
 import type { SpaydPaymentAttributes } from './types'
-import { isValidIBAN } from '../../iban/src'
+import { isValidIBAN } from 'ibantools'
 import { NOTIFICATION_TYPE_EMAIL, NOTIFICATION_TYPE_PHONE, PROTOCOL_VERSION } from './constants'
 import { SpaydAttribute } from './spayd-attribute'
 import { encodeChars, formatDate } from './utils'
