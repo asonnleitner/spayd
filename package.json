@@ -1,7 +1,7 @@
 {
   "name": "@spayd/core",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.12.2",
   "description": "",
   "author": "Andreas Sonnleitner <56999154+asonnleitner@users.noreply.github.com>",
