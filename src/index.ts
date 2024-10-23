@@ -1,0 +1,1 @@
+export { createShortPaymentDescriptor } from './spayd'
